@@ -1,0 +1,5 @@
+{
+  "name": "Excel Secure Encryptor",
+  "description": "A professional tool to upload Excel files, select specific columns for SHA-256 encryption, and generate a new Excel file with appended encrypted data columns.",
+  "requestFramePermissions": []
+}
